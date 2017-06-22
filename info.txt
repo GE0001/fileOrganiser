@@ -1,0 +1,8 @@
+# setting up a virtual environment
+python3 -m venv py_env
+source .py_env/bin/activate
+
+# running the script
+python3 fileOrganiser.py -p 2 -s ~/Src -d ~/Dst -k Dave Steve -l
+
+

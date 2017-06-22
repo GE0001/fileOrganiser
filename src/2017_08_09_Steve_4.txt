@@ -1,0 +1,6 @@
+total 24
+-rw-rw-r-- 1 george george 1703 Jun  9 15:02 confLogger.py
+-rw-rw-r-- 1 george george  562 May 26 09:59 info.txt
+-rw-rw-r-- 1 george george   81 Jun  9 11:14 lograteOptions.txt
+-rw-rw-r-- 1 george george 7681 Jun  9 15:05 moveRec.py
+drwxrwxr-x 2 george george 4096 Jun  9 15:06 src

@@ -1,0 +1,9 @@
+
+/var/log/scriptName/* {
+	weekly
+	rotate 3
+	size 10M
+	compress
+	delaycompress
+}
+
